@@ -1,0 +1,13 @@
+.card{
+    width: 420px;
+    scale: 550px;
+}
+
+.cardImg{
+    height: 190px;
+}
+
+.Cardcontent{
+    background-color: rgba(247, 246, 246, 0.966);
+    height: 260px;
+}
